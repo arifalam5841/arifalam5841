@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Arif%20alam%20;%29)&reversal=false&fontAlign=50&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Arif%20alam%20;%29)
 
 
 # Hi , I'm Arif Alam
