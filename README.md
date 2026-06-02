@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋, I'm Arif Alam
 
-<!--
-**arifalam5841/arifalam5841** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer helping businesses grow with custom websites, CRM systems, automation, and AI-powered solutions.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Business+Solutions;React+%7C+Node.js+%7C+MongoDB;Automation+%26+AI+Applications" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+React • JavaScript • Node.js • Express.js • MongoDB • Supabase • Git
+
+## 📫 Contact
+
+Email: arifalam5841@gmail.com
