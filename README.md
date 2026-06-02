@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Arif%20alam%20;%29)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Web%20Applications%20•%20SaaS%20Platforms%20•%20Business%20Automation&reversal=false&fontAlign=50&textBg=false&fontSize=29)
 
 
 # Hi , I'm Arif Alam
