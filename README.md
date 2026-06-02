@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Claruscodix&reversal=false&fontAlign=50&textBg=false)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/arifalam5841/arifalam5841/output/github-contribution-grid-snake.svg)
 # Hi , I'm Arif Alam
 
 🚀 Full-Stack Developer helping businesses grow with custom websites, automation, and AI-powered solutions.
