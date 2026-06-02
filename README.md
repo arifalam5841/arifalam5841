@@ -1,5 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Arif%20alam&reversal=false&fontAlign=50&textBg=false
-
+![header]([YOUR_GENERATED_LINK](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Arif%20alam&reversal=false&fontAlign=50&textBg=false))
 # Hi 👋, I'm Arif Alam
 
 🚀 Full-Stack Developer helping businesses grow with custom websites, automation, and AI-powered solutions.
