@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arif Alam
 
-🚀 Full-Stack Developer helping businesses grow with custom websites, CRM systems, automation, and AI-powered solutions.
+🚀 Full-Stack Developer helping businesses grow with custom websites, automation, and AI-powered solutions.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Building+Business+Solutions;React+%7C+Node.js+%7C+MongoDB;Automation+%26+AI+Applications" />
@@ -12,4 +12,4 @@ React • JavaScript • Node.js • Express.js • MongoDB • Supabase • Git
 
 ## 📫 Contact
 
-Email: arifalam5841@gmail.com
+Email: claruscodix@gmail.com
